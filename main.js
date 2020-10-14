@@ -13,3 +13,5 @@ function wybierzDluzszy(str1, str2){
         return str;
     }
 }
+
+console.log(wybierzDluzszy(str1, str2));
